@@ -9,6 +9,7 @@
       "email": "matao@wjmt.me"
     }
   ],
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.5.0"
   },
