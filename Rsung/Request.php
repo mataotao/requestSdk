@@ -17,9 +17,9 @@ class Request
     
     private $method = '';
 
-//    private $fileBaseUrl = '/tmp/debug/';
+    private $fileBaseUrl = '/tmp/debug/';
     
-    private $fileBaseUrl = './debug/';
+//    private $fileBaseUrl = './debug/';
     
     //curl对象
     private $curl = null;
