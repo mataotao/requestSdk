@@ -11,7 +11,8 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=5.5.0"
+    "php": ">=5.5.0",
+    "rsung/request": "^1.0"
   },
   "autoload": {
     "psr-4": {
