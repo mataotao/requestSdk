@@ -1,0 +1,21 @@
+{
+  "name": "rsung/request",
+  "description": "request",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "matao",
+      "email": "matao@wjmt.me"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rsung\\": "rsung"
+    }
+  }
+}
