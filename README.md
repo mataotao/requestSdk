@@ -6,7 +6,7 @@
 * cURL extension
 
 ## 安装方法
-1. 下载SDK源码，在您所需要的地方引入
+1. composer require rsung/request
 
 ## 快速使用
 ### 常用类
