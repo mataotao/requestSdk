@@ -41,6 +41,7 @@ class Request
     
     ];
     
+    
     private $data  = '';
     private $info  = [];
     private $error = '';
